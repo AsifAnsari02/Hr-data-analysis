@@ -1,4 +1,4 @@
-# Hr-data-analysis
+# Hr-data-analysis dashboard
 HR ANALYSIS DASHBOARD
 Highlights of the project: Total Attrition: 1470
 Attrition (who left the company): 237
